@@ -6,5 +6,6 @@ Open source chess engines for armv7 32bit neon Android phones.
 * [RubiChess](https://github.com/Matthies/RubiChess/releases/download/20221203/Android-stable-binaries-20221203.zip) by @Matthies
 * [Ethereal12](https://github.com/AndyGrant/Ethereal/releases/download/v12.75/Ethereal12.75-armv7) by @AndyGrant
 * [Monolith](https://github.com/cimarronOST/Monolith/releases/download/v2.01/Monolith-armv7) by @cimarronOST
+* [Cheese](http://cheesechess.free.fr/cheese/cheese-192-arm.zip) by Patrice Duhamel
 
 To use, you need a Chess GUI app like [Droidfish](https://f-droid.org/en/packages/org.petero.droidfish/).
