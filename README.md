@@ -7,6 +7,7 @@ Open source chess engines for armv7 32bit neon Android phones.
 * [Ethereal12](https://github.com/AndyGrant/Ethereal/releases/download/v12.75/Ethereal12.75-armv7)[^1] by @AndyGrant
 * [Monolith](https://github.com/cimarronOST/Monolith/releases/download/v2.01/Monolith-armv7)[^1] by @cimarronOST
 * [Cheese](http://cheesechess.free.fr/cheese/cheese-192-arm.zip)[^1] by Patrice Duhamel
+* [Fruit](Fruit_armv7.zip) by Fabien Letouzey
 
 To use, you need a Chess GUI app like [Droidfish](https://f-droid.org/en/packages/org.petero.droidfish/).
 
