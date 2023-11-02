@@ -2,6 +2,7 @@
 Open source chess engines for armv7 32bit neon Android phones.
 * [Akimbo](Akimbo_armv7.zip) by @jw1912
 * [Cheese](http://cheesechess.free.fr/cheese/cheese-192-arm.zip)[^1] by Patrice Duhamel
+* [Cheng4](Cheng4_armv7.zip) by Martin Sedlak
 * [CT800](https://www.ct800.net/download/ct800-v1.45.zip)[^1] by Rasmus Althoff
 * [Demolito](Demolito_armv7.zip) by @lucasart
 * [Ethereal12](https://github.com/AndyGrant/Ethereal/releases/download/v12.75/Ethereal12.75-armv7)[^1] by @AndyGrant
