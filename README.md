@@ -9,6 +9,7 @@ Open source chess engines for armv7 32bit neon Android phones.
 * [Monolith](https://github.com/cimarronOST/Monolith/releases/download/v2.01/Monolith-armv7)[^1] by @cimarronOST
 * [RubiChess](https://github.com/Matthies/RubiChess/releases/download/20221203/Android-stable-binaries-20221203.zip)[^1] by @Matthies
 * [Stockfish11](Stockfish11_armv7.zip)
+* [Texel](https://github.com/peterosterlund2/texel/releases/download/1.08/texel108.7z)[^1] by @peterosterlund2
 * [Weiss](Weiss_armv7.zip) by @TerjeKir
 
 To use, you need a Chess GUI app like [Droidfish](https://f-droid.org/en/packages/org.petero.droidfish/).
