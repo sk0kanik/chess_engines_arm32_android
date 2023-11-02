@@ -12,6 +12,7 @@ Open source chess engines for armv7 32bit neon Android phones.
 * [Stockfish11](Stockfish11_armv7.zip)
 * [Texel](https://github.com/peterosterlund2/texel/releases/download/1.08/texel108.7z)[^1] by @peterosterlund2
 * [Weiss](Weiss_armv7.zip) by @TerjeKir
+* [Willow](Willow_armv7.zip) by @Adam-Kulju
 
 To use, you need a Chess GUI app like [Droidfish](https://f-droid.org/en/packages/org.petero.droidfish/).
 
