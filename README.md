@@ -11,6 +11,7 @@ Open source chess engines for armv7 32bit neon Android phones.
 * [RubiChess](https://github.com/Matthies/RubiChess/releases/download/20221203/Android-stable-binaries-20221203.zip)[^1] by @Matthies
 * [Stockfish11](Stockfish11_armv7.zip)
 * [Texel](https://github.com/peterosterlund2/texel/releases/download/1.08/texel108.7z)[^1] by @peterosterlund2
+* [Tucano](Tucano_armv7.zip) by @alcides-schulz
 * [Weiss](Weiss_armv7.zip) by @TerjeKir
 * [Willow](Willow_armv7.zip) by @Adam-Kulju
 * [Winter](Winter_armv7.zip) by @rosenthj
