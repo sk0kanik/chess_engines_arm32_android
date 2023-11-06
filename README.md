@@ -7,6 +7,7 @@ Open source chess engines for armv7 32bit neon Android phones.
 * [Demolito](Demolito_armv7.zip) by @lucasart
 * [Ethereal12](https://github.com/AndyGrant/Ethereal/releases/download/v12.75/Ethereal12.75-armv7)[^1] by @AndyGrant
 * [Fruit](Fruit_armv7.zip) by Fabien Letouzey
+* [Hakkapeliitta](Hakkapeliitta_armv7.zip) by @mAarnos
 * [Monolith](https://github.com/cimarronOST/Monolith/releases/download/v2.01/Monolith-armv7)[^1] by @cimarronOST
 * [RubiChess](https://github.com/Matthies/RubiChess/releases/download/20221203/Android-stable-binaries-20221203.zip)[^1] by @Matthies
 * [Stockfish11](Stockfish11_armv7.zip)
