@@ -1,6 +1,7 @@
 # chess_engines_arm32_android
 Open source chess engines for armv7 32bit neon Android phones.
 * [Akimbo](Akimbo_armv7.zip) by @jw1912
+* [Arasan](Arasan_armv7.zip)[^2] by @jdart1
 * [BlackCore](BlackCore_armv7.zip) by @SzilBalazs
 * [Cheese](http://cheesechess.free.fr/cheese/cheese-192-arm.zip)[^1] by Patrice Duhamel
 * [Cheng4](Cheng4_armv7.zip) by Martin Sedlak
@@ -21,3 +22,4 @@ Open source chess engines for armv7 32bit neon Android phones.
 To use, you need a Chess GUI app like [Droidfish](https://f-droid.org/en/packages/org.petero.droidfish/).
 
 [^1]: From official binary releases.
+[^2]: without NNUE
