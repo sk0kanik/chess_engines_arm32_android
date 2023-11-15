@@ -8,6 +8,7 @@ Open source chess engines for armv7 32bit neon Android phones.
 * [CT800](https://www.ct800.net/download/ct800-v1.45.zip)[^1] by Rasmus Althoff
 * [Demolito](Demolito_armv7.zip) by @lucasart
 * [Ethereal12](https://github.com/AndyGrant/Ethereal/releases/download/v12.75/Ethereal12.75-armv7)[^1] by @AndyGrant
+* [Frozenight](Frozenight_armv7.zip) by @MinusKelvin
 * [Fruit](Fruit_armv7.zip) by Fabien Letouzey
 * [Hakkapeliitta](Hakkapeliitta_armv7.zip) by @mAarnos
 * [Halogen](Halogen_armv7.zip) by @KierenP
