@@ -14,6 +14,7 @@ Open source chess engines for armv7 32bit neon Android phones.
 * [Halogen](Halogen_armv7.zip) by @KierenP
 * [Monolith](https://github.com/cimarronOST/Monolith/releases/download/v2.01/Monolith-armv7)[^1] by @cimarronOST
 * [RubiChess](https://github.com/Matthies/RubiChess/releases/download/20221203/Android-stable-binaries-20221203.zip)[^1] by @Matthies
+* [Stash](Stash_armv7.zip) by @mhouppin
 * [Stockfish11](Stockfish11_armv7.zip)
 * [Texel](https://github.com/peterosterlund2/texel/releases/download/1.08/texel108.7z)[^1] by @peterosterlund2
 * [Tucano](Tucano_armv7.zip) by @alcides-schulz
