@@ -1,6 +1,7 @@
 # chess_engines_arm32_android
 Open source chess engines for armv7 32bit neon Android phones.
 * [Akimbo](Akimbo_armv7.zip) by @jw1912
+* [Alexandria](Alexandria_armv7.zip) by @PGG106
 * [Arasan](Arasan_armv7.zip)[^2] by @jdart1
 * [BlackCore](BlackCore_armv7.zip) by @SzilBalazs
 * [Cheese](http://cheesechess.free.fr/cheese/cheese-192-arm.zip)[^1] by Patrice Duhamel
