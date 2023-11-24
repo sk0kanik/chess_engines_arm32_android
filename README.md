@@ -13,6 +13,7 @@ Open source chess engines for armv7 32bit neon Android phones.
 * [Fruit](Fruit_armv7.zip) by Fabien Letouzey
 * [Hakkapeliitta](Hakkapeliitta_armv7.zip) by @mAarnos
 * [Halogen](Halogen_armv7.zip) by @KierenP
+* [Laser](Laser_armv7.zip) by @jeffreyan11
 * [Monolith](https://github.com/cimarronOST/Monolith/releases/download/v2.01/Monolith-armv7)[^1] by @cimarronOST
 * [RubiChess](https://github.com/Matthies/RubiChess/releases/download/20221203/Android-stable-binaries-20221203.zip)[^1] by @Matthies
 * [Stash](Stash_armv7.zip) by @mhouppin
