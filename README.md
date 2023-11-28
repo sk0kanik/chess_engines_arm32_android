@@ -23,6 +23,7 @@ Open source chess engines for armv7 32bit neon Android phones.
 * [Weiss](Weiss_armv7.zip) by @TerjeKir
 * [Willow](Willow_armv7.zip) by @Adam-Kulju
 * [Winter](Winter_armv7.zip) by @rosenthj
+* [Xiphos](Xiphos_armv7.zip) by @milostatarevic
 
 To use, you need a Chess GUI app like [Droidfish](https://f-droid.org/en/packages/org.petero.droidfish/).
 
